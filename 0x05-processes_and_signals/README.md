@@ -108,7 +108,9 @@ In this project i started learning;**
 * **11. Zombie**
   * [102-zombie.c](./102-zombie.c): C program that creates five zombie processes.
   * For every zombie created, displays `Zombie process created, PID:
-  <ZOMBIE_PID>`.## Aknowledgment
+  <ZOMBIE_PID>`.
+
+## Aknowledgment
 
 All projects are being taught by ALX. All thanks to ALX Africa
 ![Logo](https://i0.wp.com/aceworldpub.com.ng/wp-content/uploads/2022/03/unnamed.png?resize=880%2C528&ssl=1)

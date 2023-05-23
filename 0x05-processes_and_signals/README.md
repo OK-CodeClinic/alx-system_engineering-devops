@@ -1,6 +1,6 @@
-# Bash - Loops, conditions and parsing
-These project were done during Full Stack Software Engineering studies at ALX School to learn about bash propcess and signals. 
-In this project i started learning;**
+# Bash - Processes and Signals
+These project were done during Full Stack Software Engineering studies at ALX School to learn about bash processes and signals. 
+In this project i started learning;
 - What is a PID
 - What is a process
 - How to find a process’ PID

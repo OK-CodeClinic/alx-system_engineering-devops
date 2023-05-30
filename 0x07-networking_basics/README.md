@@ -96,7 +96,9 @@ This project is to tackle the basics of Networking. Here i learned about;
 * **5. Is the host on the network**
   * [5-is_the_host_on_the_network](./5-is_the_host_on_the_network): Bash script that
   pings an IP address received as an argument 5 times.
-  * Usage: `5-is_the_host_on_the_network {IP_ADDRESS}`.## Aknowledgment
+  * Usage: `5-is_the_host_on_the_network {IP_ADDRESS}`.
+
+## Aknowledgment
 
 All projects are being taught by ALX. All thanks to ALX Africa
 ![Logo](https://i0.wp.com/aceworldpub.com.ng/wp-content/uploads/2022/03/unnamed.png?resize=880%2C528&ssl=1)

@@ -22,7 +22,6 @@ In this project i learned how to build regular expression using Oniguruma Librar
 
 
 ## Tasks
-### **Mandatory Tasks**
 
 * **0. Simply matching School**
   * [0-simply_match_bestschool.rb](./0-simply_match_holberton.rb): Ruby script that
@@ -56,8 +55,6 @@ In this project i learned how to build regular expression using Oniguruma Librar
 * **7. OMG WHY ARE YOU SHOUTING?**
   * [7-OMG_WHY_ARE_YOU_SHOUTING.rb](./7-OMG_WHY_ARE_YOU_SHOUTING.rb): Ruby script that
   matches regular expressions of uppercase letters.
-
-### Advanced Tasks 
 
 * **8. Textme**
   * [100-textme.rb](./100-textme.rb): Ruby script that runs statistics on TextMe app text

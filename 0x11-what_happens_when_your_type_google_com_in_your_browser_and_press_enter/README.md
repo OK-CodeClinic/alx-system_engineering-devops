@@ -16,13 +16,13 @@ Fortunately, all these things happen in a split second, so you hardly ever stop 
 
 
 ## Website Blog Components
-- AWS EC2
+- AWS EC2 (Web Server)
 - AWS Application Load Balancer
-- Route 53
+- Route 53 (Hosted zone)
 - Godaddy (Domain Registrar)
 - Target group
-- Security Group 
-
+- Security Group (Firewall)
+- Amazon S3 (Store all artifacts)
 
 
 

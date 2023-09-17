@@ -6,6 +6,9 @@ This covers the article of how i debugged the project task in Web stack debuggin
 
 
 ## FLOWCHART
+![postmorten drawio](https://github.com/OK-CodeClinic/alx-system_engineering-devops/assets/100064229/d9ef03e8-0965-4c4b-97ae-5e64a09fe77a)
+
+
 ## ANALYSIS
 
 

@@ -1,6 +1,6 @@
-# Fix 500 error when a GET HTTP method is requested to Apache web server
+# automated puppet fix (to find out why Apache is returning a 500 error)
 
-exec {'replace':
+exec { 'Fix wordpress site':
+  command  => 'sudo sed -i "s/.phpp/.php/" /var/www/html/wp-settings.php',
   provider => shell,
-  command  => 'sed -i "s/phpp/php/g" /var/www/html/wp-settings.php'
 }
